@@ -71,21 +71,21 @@ print (recortar(num,min,max))
 """""
 #ejercicio 06
 
-lista = ([6,5,2,1,7])
 
-pares = []
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-impares = []
-
-def separar (lista) : 
-
-  for i in lista:
-      if(i % 2 == 0):
+def separar(lista):
+    pares = []
+    impares = []
+    for i in lista:
+        if i % 2 == 0:
             pares.append(i)
-            
+        else:
+            impares.append(i)
+    pares.sort()
+    impares.sort()
+    return pares, impares
 
-            
-
-
-print(separar(lista))
-
+pares, impares = separar(numeros)
+print("Pares:", pares)
+print("Impares:", impares)
