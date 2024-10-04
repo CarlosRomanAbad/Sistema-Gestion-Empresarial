@@ -1,7 +1,6 @@
-import csv 
-from datetime import datetime
-from math import sqrt
-from collections import namedtuples
+from ufos import *
 
+avistamientos = lee_avistamientos('Ufos\data\ovnis.csv')
 
-Avistamientos = namedtuples()
+for i in avistamientos[:5]:
+    print(i)    
