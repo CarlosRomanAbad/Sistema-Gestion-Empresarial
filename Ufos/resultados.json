@@ -1,0 +1,17 @@
+{
+    "ejercicio_1": [
+        "Avistamiento(fechahora=datetime.datetime(1910, 6, 1, 15, 0), ciudad='wills point', estado='tx', forma='cigar', duracion=120, comentarios='Cigar shaped object moving from West to East', latitud=32.7091667, longitud=-96.0080556)",
+        "Avistamiento(fechahora=datetime.datetime(1920, 6, 11, 21, 0), ciudad='cicero', estado='in', forma='unknown', duracion=60, comentarios='((NUFORC Note:  Probable hoax.  Note date.  PD))  Strange gathering of objects in the sky.', latitud=40.1238889, longitud=-86.0133333)",
+        "Avistamiento(fechahora=datetime.datetime(1925, 12, 28, 18, 0), ciudad='atkinson (6 miles north of)', estado='il', forma='disk', duracion=60, comentarios='Young boy witnesses disc in sky above Illinois farmland in December 1925.', latitud=41.4208333, longitud=-90.015)",
+        "Avistamiento(fechahora=datetime.datetime(1934, 9, 15, 15, 30), ciudad='valley city (6.5 miles east of)', estado='nd', forma='disk', duracion=5, comentarios='Two brothers observe  hear  three black discs streak overhead  moving from SE to NW; below high overcast. 500 Lights On Object0: Ye', latitud=46.9233333, longitud=-98.0027778)",
+        "Avistamiento(fechahora=datetime.datetime(1936, 10, 15, 17, 0), ciudad='eklutna', estado='ak', forma='cigar', duracion=180, comentarios='Two men approached by a cigar-shaped object in the night sky.', latitud=61.4580556, longitud=-149.3622222)"
+    ],
+    "ejercicio_2": {
+        "in": 3318305,
+        "nm": 3211887,
+        "pa": 1241235,
+        "wa": 1822712
+    },
+    "ejercicio_3": "None",
+    "ejercicio_4": {
+        "Junio": 
